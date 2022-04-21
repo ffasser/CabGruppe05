@@ -1,3 +1,4 @@
+[![Build Status](https://dev.azure.com/CabGruppe05/CabGruppe05/_apis/build/status/ffasser.CabGruppe05?branchName=master)](https://dev.azure.com/CabGruppe05/CabGruppe05/_build/latest?definitionId=1&branchName=master)
 
 # Contributing
 
